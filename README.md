@@ -56,6 +56,14 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 </ul>
 
 ---
+<h2>Projects</h2>
+<h3>Website Design</h3>
+
+[Link to Repository](https://github.com/keruddy/keruddy.github.io)
+
+[Link to Website](https://keruddy.github.io/TitlePage.html)
+
+---
 
 <h2>Contact</h2>
 <h3>Kevin Ruddy</h3>
