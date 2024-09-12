@@ -56,7 +56,19 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 </ul>
 
 ---
+<h2>Projects</h2>
+<h3>Database Design</h3>
 
+[Repository Link](https://github.com/keruddy/Portfolio/blob/Database-Design/DnD%20Campaign%20Database.accdb)
+
+<h3>Website Design</h3>
+
+
+[Repository Link](https://github.com/keruddy/keruddy.github.io)
+
+[Website Link](https://keruddy.github.io/TitlePage.html)
+
+---
 <h2>Contact</h2>
 <h3>Kevin Ruddy</h3>
 <h3>Email: keruddy@gmail.com</h3>
