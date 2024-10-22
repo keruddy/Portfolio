@@ -50,9 +50,10 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 <li>[x] Understanding of multipe Operating Systems including Windows, Mac, Unix/Linux</li>
 <li>[x] Microsoft Office (Word, Excel, PowerPoint, and Access)</li>
 <li>[x] Also other Microsoft Suites such as Project and Publisher</li>
-<li>[x] Languages such as Java and Visual Basic</li>
+<li>[x] Languages such as Java and Visual Basic Code</li>
 <li>[x] Database Design</li>
-<li>[x] HTML</li>
+<li>[x] HTML Code</li>
+<li>[x] SharePoint Page Design</li>
 </ul>
 
 ---
@@ -67,6 +68,7 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 
 [Link to Repository](https://github.com/keruddy/Portfolio/blob/Database-Design/DnD%20Campaign%20Database.accdb)
 
+<h3>SharePoint Page Design</h3>
 ---
 
 <h2>Contact</h2>
