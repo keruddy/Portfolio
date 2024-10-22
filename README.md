@@ -69,6 +69,7 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 [Link to Repository](https://github.com/keruddy/Portfolio/blob/Database-Design/DnD%20Campaign%20Database.accdb)
 
 <h3>SharePoint Page Design</h3>
+
 ---
 
 <h2>Contact</h2>
