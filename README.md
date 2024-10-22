@@ -19,7 +19,7 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 
   ---
 <h2>Education</h2>
-  <blockquote><h3>AS Computer Information Systems</h3></blockquote>
+  <blockquote><h3>AAS Computer Information Systems</h3></blockquote>
   <ul>
   <li><cite>- Pikes Peak State College - Dec 2024</cite></li>
   </ul>
