@@ -70,6 +70,8 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 
 <h3>SharePoint Page Design</h3>
 
+[Link to SharePoint Presentation](https://youtu.be/_RRwOfcg50w)
+
 ---
 
 <h2>Contact</h2>
