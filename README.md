@@ -58,19 +58,25 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 
 ---
 <h2>Projects</h2>
-<h3>Website Design</h3>
+<blockquote><h3>Website Design</h3></blockquote>  
 
 [Link to Repository](https://github.com/keruddy/keruddy.github.io)
 
 [Link to Website](https://keruddy.github.io/TitlePage.html)
+<h4>This Website was designed for my Web Design class at PPSC</h4>
 
-<h3>Database Design</h3>
+---
+
+<blockquote><h3>Database Design</h3></blockquote>  
 
 [Link to Repository](https://github.com/keruddy/Portfolio/blob/Database-Design/DnD%20Campaign%20Database.accdb)
+<h4>This Database was designed for my Database Design class at PPSC</h4>
 
-<h3>SharePoint Page Design</h3>
+---
+<blockquote><h3>SharePoint Page Design</h3></blockquote>  
 
-[Link to SharePoint Presentation](https://youtu.be/_RRwOfcg50w)
+[Link to SharePoint Presentation](https://youtu.be/_RRwOfcg50w) 
+<h4>This SharePoint Presentation is from a project I did at PPSC in my Capstone Class. These pages were designed for the Computer Information Systems Department at PPSC.</h4>
 
 ---
 
