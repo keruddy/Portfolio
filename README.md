@@ -76,7 +76,7 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 <blockquote><h3>SharePoint Page Design</h3></blockquote>  
 
 [Link to SharePoint Presentation](https://youtu.be/_RRwOfcg50w) 
-<h4>This SharePoint Presentation is from a project I did at PPSC in my Capstone Class. These pages were designed for the Computer Information Systems Department at PPSC.</h4>
+<h4>This SharePoint Presentation is from a project I did at PPSC in my Capstone Class. The pages include information related to getting a CIS degree at Pikes Peak State College, showing general information about the Department,  faculty, degrees and certification options and career outcomes. These pages were designed for the Computer Information Systems Department at PPSC.</h4>
 
 ---
 
