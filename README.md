@@ -30,21 +30,21 @@ Hello I am Kevin and I am a recent graduate with an Associate of Science degree 
 <blockquote>IT Spcecialist</blockquote>
 <ul>
   <li><cite>- Accounting Pros - April 2022 - October 2025</cite></li>
-</ul>
-    <li>- Implemented IT Support processes that helped reduce downtime, improving overall productivity and reliability.</li>
+<ul>
+  <li>- Implemented IT Support processes that helped reduce downtime, improving overall productivity and reliability.</li>
   <li>- Built a private intranet for company operations, eliminating reliance on wireless networks and enhancing data security.</li>
   <li>- Developed and executed backup and disaster recovery plans, ensuring continuous protection of critical company data and minimizing potential operational distruptions.</li>
-<ul></ul>
+<ul></ul></ul></ul>
 
 <blockquote>Customer IT Service Delivery Manager</blockquote>
  <ul>
   <li><cite>- Restaurant Technology Services - April 2013 - Aug 2019</cite></li>
-   </ul>
+   <ul>
     <li>- Coordinated daily communication from multiple client management teams, ensuring timely and accurate intake of all technical issues and service requests. </li>
     <li>- Performed comprehensive triage of incoming incidents, assessing scope, impact, and urgency to determine appropriate prioritization. </li>
     <li>- Monitored priority and recurring incidents through full resolution, providing escalation oversight and ensuring adherence to SLAs.</li>
     <li>- Collaborated with various IT teams, vendors, and client stakeholders to drive issue resolution and maintain operation continuity.</li>
-  <ul></ul>
+   </ul></ul>
   
 <blockquote>Platinum Level Technician</blockquote>
 <ul>
